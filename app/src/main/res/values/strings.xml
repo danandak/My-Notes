@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Uts</string>
+    <string name="matkul_1">Aljabar Linear</string>
+    <string name="sks_1">3 SKS</string>
+
+    <string name="matkul_2">Desain dan Pemrograman Web</string>
+    <string name="sks_2">3 SKS</string>
+
+    <string name="matkul_3">Interaksi Manusia Komputer</string>
+    <string name="sks_3">3 SKS</string>
+
+    <string name="matkul_4">Metode Penelitian</string>
+    <string name="sks_4">2 SKS</string>
+
+    <string name="matkul_5">Sistem Operasi</string>
+    <string name="sks_5">3 SKS</string>
+
+    <string name="matkul_6">Rekayasa Perangkat Lunak</string>
+    <string name="sks_6">3 SKS</string>
+
+    <string name="matkul_7">Teori Informasi</string>
+    <string name="sks_7">3 SKS</string>
+
+    <string name="matkul_8">Logika dan Penalaran Ilmiah</string>
+    <string name="sks_8">3 SKS</string>
+
+    <string name="matkul_9">Pengantar Organisasi Komputer</string>
+    <string name="sks_9">3 SKS</string>
+
+    <string name="matkul_10">Data Mining</string>
+    <string name="sks_10">3 SKS</string>
+
+    <string name="matkul_11">Kalkulus Diferensial</string>
+    <string name="sks_11">3 SKS</string>
+
+    <string name="matkul_12">Kalkulus Integral</string>
+    <string name="sks_12">3 SKS</string>
+
+    <string name="matkul_13">Bahasa Inggris</string>
+    <string name="sks_13">2 SKS</string>
+
+    <string name="matkul_14">Pemrograman Deklaratif</string>
+    <string name="sks_14">3 SKS</string>
+
+    <string name="matkul_15">Matematika Diskrit</string>
+    <string name="sks_15">3 SKS</string>
+</resources>
