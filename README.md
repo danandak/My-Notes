@@ -1,2 +1,2 @@
-# Uts-MobCom-Dnn-119
-Aplikasi UTS Mata Kuliah Mobile Computing
+# My Notes App
+Aplikasi mobile android sederhana untuk membuat dan mengedit notes
