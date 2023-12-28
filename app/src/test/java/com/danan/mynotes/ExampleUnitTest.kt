@@ -1,4 +1,4 @@
-package com.danan.uts
+package com.danan.mynotes
 
 import org.junit.Test
 

@@ -1,7 +1,7 @@
-package com.danan.uts.data
+package com.danan.mynotes.data
 
 import android.content.Context
-import com.danan.uts.model.MataKuliah
+import com.danan.mynotes.model.MataKuliah
 
 class MatkulDataSource {
     fun loadData(context : Context) : MutableList<MataKuliah> {

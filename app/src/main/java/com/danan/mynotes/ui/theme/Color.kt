@@ -1,4 +1,4 @@
-package com.danan.uts.ui.theme
+package com.danan.mynotes.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

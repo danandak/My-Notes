@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Uts"
+rootProject.name = "My Notes"
 include(":app")
  

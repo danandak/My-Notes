@@ -1,4 +1,4 @@
-package com.danan.uts.model
+package com.danan.mynotes.model
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
