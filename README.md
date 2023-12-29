@@ -10,6 +10,7 @@ My Notes merupakan sebuah aplikasi mobile yang dikembangkan menggunakan Kotlin d
 Berikut ini adalah video demo aplikasi [di sini](https://youtu.be/OQpYNwcEjUE).
 
 Screenshot:
+
 ![image](https://github.com/danandak/My-Notes/assets/89507504/ed0a8447-077d-4e7b-9fa2-1855f784d172)
 ![image](https://github.com/danandak/My-Notes/assets/89507504/fa4ef846-b041-4879-85e3-6f0f635dc750)
 ![image](https://github.com/danandak/My-Notes/assets/89507504/09ee4834-e865-4e2c-b535-a9978d896a94)
