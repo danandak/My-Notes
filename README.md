@@ -10,11 +10,10 @@ My Notes merupakan sebuah aplikasi mobile yang dikembangkan menggunakan Kotlin d
 Berikut ini adalah video demo aplikasi [di sini](https://youtu.be/OQpYNwcEjUE).
 
 Screenshot:
-![image](https://github.com/danandak/My-Notes/assets/89507504/f09a33f0-2058-430f-85b0-e54cf16c809f)
-![image](https://github.com/danandak/My-Notes/assets/89507504/82dfe9c6-7215-42f3-9001-9fcf21b6ce52)
-![image](https://github.com/danandak/My-Notes/assets/89507504/3ca8b1dc-8347-42f0-994c-10f75b2a8071)
-![image](https://github.com/danandak/My-Notes/assets/89507504/90f33132-c948-411e-885e-a13c5757e7b8)
-![image](https://github.com/danandak/My-Notes/assets/89507504/da56075a-55bb-420c-84ce-f936d9a1c662)
-![image](https://github.com/danandak/My-Notes/assets/89507504/dc2e537d-e4c1-4f66-b2e2-08ae04db533b)
-![image](https://github.com/danandak/My-Notes/assets/89507504/7fec61cc-0787-4fce-adca-a07697b0ddef)
-
+![image](https://github.com/danandak/My-Notes/assets/89507504/ed0a8447-077d-4e7b-9fa2-1855f784d172)
+![image](https://github.com/danandak/My-Notes/assets/89507504/fa4ef846-b041-4879-85e3-6f0f635dc750)
+![image](https://github.com/danandak/My-Notes/assets/89507504/09ee4834-e865-4e2c-b535-a9978d896a94)
+![image](https://github.com/danandak/My-Notes/assets/89507504/b5bebe95-d50a-4044-88c6-a5caeedcd9a1)
+![image](https://github.com/danandak/My-Notes/assets/89507504/d331ad61-350b-458c-b6dd-76c34e4df9d0)
+![image](https://github.com/danandak/My-Notes/assets/89507504/8ba34470-a352-4be9-9308-de43ef3be28b)
+![image](https://github.com/danandak/My-Notes/assets/89507504/afa493c2-bf32-4093-b8d3-2dec640c4ea2)
